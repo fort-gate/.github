@@ -1,9 +1,5 @@
 # FortgateID
 
-<p align="center">
-  <img src="https://github.com/user-attachments/profile/fortgate.png" alt="FortgateID" width="100%">
-</p>
-
 **Interoperable identity & KYC orchestration. Verify once, reuse everywhere.**
 
 FortgateID is a trust and orchestration layer for identity verification. Instead of every company re-running the same KYC process on the same person, FortgateID orchestrates the verification, normalizes the result, and issues a **reusable credential** that other institutions can trust without repeating the full flow.

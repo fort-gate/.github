@@ -1,9 +1,7 @@
 # FortgateID
 
 <p align="center">
-  <a href="https://fortgate.xyz">
-    <img src="./profile/fortgate.png" alt="FortgateID" width="100%">
-  </a>
+  <img src="https://github.com/user-attachments/profile/fortgate.png" alt="FortgateID" width="100%">
 </p>
 
 **Interoperable identity & KYC orchestration. Verify once, reuse everywhere.**
